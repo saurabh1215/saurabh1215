@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Saurabh Gupta</h1>
 <h3 align="center">A passionate web developer from India</h3>
-img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh1215&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh1215" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🔭 I’m currently working on **MERN Stack Development**
+
+- 🌱 I’m currently learning **Typescript**
+
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 💬 Ask me about **MERN and DSA**
 
 - 📫 How to reach me **saurabhprince2000@gmail.com**
+
+- ⚡ Fun fact **As a volleyball defender, I specialize in digging spikes and setting up the laughter game off the court. 🏐🛡️🎭 #DefenderOnTheCourtJesterOff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
